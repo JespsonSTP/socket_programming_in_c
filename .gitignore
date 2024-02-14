@@ -1,3 +1,7 @@
+.breakpoints
+.replit
+replit.nix
+.ccls-cache
 # Prerequisites
 *.d
 
